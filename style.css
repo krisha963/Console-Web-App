@@ -1,0 +1,29 @@
+body {
+    color: deeppink;
+}
+
+h2 {
+    font-size: 50px;
+    color: deeppink;
+    text-align: center;
+    font-weight: bold;
+    font-family: fantasy;
+
+}
+
+h3 {
+    font-size: 50px;
+    color: deeppink;
+    text-align: center;
+    font-weight: bold;
+    font-family: fantasy;
+
+}
+
+h1 {
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+    font-family: fantasy;
+}
